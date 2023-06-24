@@ -43,3 +43,5 @@ abcdxabcxxxxabcx
 ### Output Details:
 
 'abcxxxxabcx' is a prefix of the first string and a suffix of the second string.
+
+### Demo the program by running [this file](https://github.com/advious/Barn-Echoes/blob/main/BarnEchoes.java).
